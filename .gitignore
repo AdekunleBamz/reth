@@ -71,4 +71,5 @@ __pycache__/
 
 # direnv
 .envrc
+.envrc.local
 .direnv/
